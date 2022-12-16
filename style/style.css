@@ -33,10 +33,10 @@
 	}
 	/*set extra style for the cancel button*/
 	
-	.cancelbtn {
+	.successbtn {
 		width: auto;
 		padding: 10px 18px;
-		background-color: #f44336;
+		background-color: rgb(48, 162, 19);
 	}
 	/*centre the display image inside the container*/
 	
