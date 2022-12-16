@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+label{
+    font-weight: bold;
+    color:#171308;
+}
+.linear-gradient-background-with-more-colors {
+  height: 100vh;
+  background-image: linear-gradient(#aaf0bc,#e3ddcc);
+}
+
+.text {
+    text-align: center;
+}
+
+.c2 {
+    margin-left: 8px;
+    padding-left: 0px;
+    padding-right:6px ;
+}
+
+.c3 {
+    margin-left: 5px;
+    padding-left: 1px;
+    padding-right:1px ;
+}
+
+.ff {
+    margin-right: 23px;
+    padding-left: 13px;
+}
+.cpu {
+    margin-right: 17px;
+    padding-left: 6px;
+    padding-right:2px ;
+}
+.cpa {
+    margin-right: 17px;
+    padding-left: 7px;
+    padding-right:2px ;
+}
+.cu{
+    margin-right: 17px;
+    padding-left: 5px;
+    padding-right:2px ;
+}
+.c{
+    margin-right: 17px;
+    padding-left: 5px;
+    padding-right:2px ;
+}
+.c1 {
+    margin-right: 17px;
+    padding-left: 4px;
+}
+
+.allign {
+    text-align: center;
+}
+
+input[type=text] {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: red;
+    width: 30%;
+    background-color: white;
+}
+
+input[type=password] {
+    border-color: blue;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: green;
+    background-color: white;
+    width: 30%;
+}
+
+input[type=phone] {
+    border-radius: 4px;
+    border-width: 3px;
+    border-color: green;
+}
+
+.text {
+    color: red;
+}
+
+.fp {
+    font-family: "Roboto";
+    color: #0A7029;
+    font-size: 10px;
+    margin-left: 200px;
+}
+
+.button {
+    height: 35px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 2px;
+    border-style: solid;
+    color: #1ed64f;
+    background-color: white;
+}
+
+.b {
+    text-align: center;
+}
