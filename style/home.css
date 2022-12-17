@@ -23,6 +23,12 @@
     text-decoration: none;
     border-radius: 5px;
 }
+.nav>a>div{
+    color: white;
+}
+.nav>a{
+    text-decoration: none;
+}
 a:visited{
     text-decoration: none;
 }
@@ -56,4 +62,16 @@ a:visited{
     padding: 0px 50px;
     text-align: center;
     color: darkblue;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslategray;
+    color: rgb(254, 254, 254);
+    width: 100%;
+    padding: 10px;
 }
